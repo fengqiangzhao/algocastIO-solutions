@@ -1,2 +1,2 @@
-# algocastIO-solutions
-algocast.io algorithm problem solutions
+# algocastsIO-solutions
+algocasts.io algorithm problem solutions
