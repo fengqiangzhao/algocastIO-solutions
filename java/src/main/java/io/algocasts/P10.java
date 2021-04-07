@@ -4,6 +4,7 @@ package io.algocasts;
  * 数值的n次方
  * leetcode: 50,428
  * Tag:数学,二分搜索
+ * Level:易
  */
 public class P10 {
     //Time:O(n), Space:O(1)

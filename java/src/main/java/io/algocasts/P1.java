@@ -4,8 +4,8 @@ package io.algocasts;
 /**
  * 回文字符串判断
  * leetcode:125,415
- * Tag: 双指针、字符串
- * Level: 易
+ * Tag:双指针、字符串
+ * Level:易
  */
 public class P1 {
     private boolean isAlphaNumeric(char c) {

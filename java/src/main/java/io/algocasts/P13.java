@@ -3,8 +3,8 @@ package io.algocasts;
 /**
  * 回文数字判断
  * leetcode:9,491
- * Tag: 数学
- * Level: 易
+ * Tag:数学
+ * Level:易
  */
 public class P13 {
     //Time:O(m), Space:O(1)
