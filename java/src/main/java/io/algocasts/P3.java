@@ -7,6 +7,7 @@ package io.algocasts;
  * Level:易
  */
 public class P3 {
+    //Time:O(n), Space:O(1)
     public int[] getTwoNumSumToGivenValue(int[] numbers, int target) {
         int i = 0, j = numbers.length - 1;
         while (i < j) {
